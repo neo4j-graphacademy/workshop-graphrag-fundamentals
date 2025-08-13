@@ -6,7 +6,7 @@ This folder contains the data and scripts to create the financial documents data
 
 This folder contains the scripts to load the financial documents dataset into a Neo4j database.
 
-When you enrol on the workshop in GraphAcademy this data is automatically imported into the Neo4j instance.
+When you enrol to the workshop in GraphAcademy this data is automatically imported into the Neo4j instance.
 
 This process loads the financial documents dataset into a Neo4j database from CSV files. 
 The dataset was originally created by using an LLM to extract financial documents from the SEC EDGAR database.
