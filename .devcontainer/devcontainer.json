@@ -20,7 +20,13 @@
 				"workbench.editorAssociations": {
 					"*.md": "vscode.markdown.preview.editor"
 				},
-				"notebook.output.scrolling": true
+				"notebook.output.scrolling": true,
+				"python.analysis.exclude": [
+					"**/workshop-genai/*.ipynb"
+				],
+				"python.analysis.diagnosticSeverityOverrides": {
+					"reportMissingImports": "none"
+				}
 			},
 			"extensions": [
 				"ms-python.python",
