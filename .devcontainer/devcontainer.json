@@ -8,10 +8,10 @@
 				".devcontainer/SETUP.md",
 				".env.example",
 				"workshop-genai/test_environment.py",
-				"workshop-graphrag-fundamentals/2.2-building-try-yourself.ipynb",
-				"workshop-graphrag-fundamentals/3.2-vector-retrievers.ipynb",
-				"workshop-graphrag-fundamentals/3.3-text-to-cypher.ipynb"
-				]
+				"workshop-graphrag-introduction/2.2-building-try-yourself.ipynb",
+				"workshop-graphrag-introduction/3.2-vector-retrievers.ipynb",
+				"workshop-graphrag-introduction/3.3-text-to-cypher.ipynb"
+			]
 		},
 		"vscode": {
 			"settings": {
